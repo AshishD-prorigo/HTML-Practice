@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+div{
+	height:250px; width:250px;
+	border:2px solid red;
+	color:red;
+	background-color:orange;
+	
+}
